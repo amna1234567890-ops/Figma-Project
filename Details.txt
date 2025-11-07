@@ -1,0 +1,13 @@
+**Template**
+1)https://www.figma.com/make/1AxUG7KjL33o4HFZdCZmJt/Airport-and-Travel-Booking-App?node-id=0-4&t=eiVotloh1cDDOy9u-1
+2)https://i.pinimg.com/1200x/1c/ee/af/1ceeaf6bcef19653261ae28d4d2e5e00.jpg
+3)https://i.pinimg.com/1200x/ec/bf/54/ecbf546b99c27131f4b5c330f816bd54.jpg
+
+Theme
+Palette:
+- Background → `#DCE2E9`
+- Surface / cards → `#F8F9FB`
+- Primary → `#3A6D8C`
+- Secondary → `#274472`
+- Accent → `#E7B10A`
+- Text → `#1C1C1C`
